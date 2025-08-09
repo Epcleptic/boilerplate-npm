@@ -18,5 +18,6 @@
     "Project",
     "Practice"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0"
 }
