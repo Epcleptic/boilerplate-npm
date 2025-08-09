@@ -12,5 +12,10 @@
     "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Peter Diepstraten",
-  "description": "A project created as part of the FreeCodeCamp tutorial"
+  "description": "A project created as part of the FreeCodeCamp tutorial",
+  "keywords": [
+    "FreeCodeCamp",
+    "Project",
+    "Practice"
+  ]
 }
